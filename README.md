@@ -12,3 +12,5 @@ Example:
 Example: 
 min: 1 max: 52 median: 6 ... 
 
+*proteins.fasta is the list of protein sequences (amino acid sequences)
+*tasks.py is the final code
