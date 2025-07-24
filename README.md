@@ -1,5 +1,5 @@
 # identifying-unique-oligomers
-This repo will help you identify unique 10-mer sequences and performing multiple tasks on them
+This repo will help you identify unique 10-mer sequences and performing multiple tasks on them.
 Task description:
 Take the ‘proteins.fasta’ file as input and produce the following tables as output: 
 1.	A list of each of the unique 10mer sequences in the input file, with a count of how many times each occurs. It should be two tab-separated columns with the 10mer sequence in the first column and its counts in the second column, sorted in decreasing order by count. As a bonus, include a third column that contains an ‘X’ if the counts of the peptide are in the 20th to 30th percentile of overall counts (with the first percentile being the highest). 
